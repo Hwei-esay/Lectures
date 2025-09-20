@@ -2,11 +2,11 @@
 layout: post
 title: "Lecture from Xinzheng Li 0920"
 author: "Haowei"
+abstract: 主要讨论相变的定义和判断
 ---
-![img_2.png](images/img0920/Lecture.jpg)
+![img_2.png](./images/img0920/Lecture.jpg)
 
 ## 基于李-杨相变理论与路径积分方法理解多体与量子多体问题
-### --主要讨论相变的定义和判断
 
 李新征：主要研究分子动力学，路径积分
 
@@ -31,9 +31,9 @@ Phase & State ？ 在最初，人们以态区分物质的状态，但是同一�
 
 参考下面两个图，一个是在参数空间中一直远离实轴，因此不会出现奇点，不会发生相变。 在第二个图中，与实轴有多个交点，因此至少发生n次相变。特别的，因为是复平面，因此一个奇点可能有多条路径抵达，因此一个奇点可能对应多个相变。
 
-![img.png](images/img0920/img.png)
+![img.png](./images/img0920/img.png)
 
-![img_1.png](images/img0920/img_1.png)
+![img_1.png](./images/img0920/img_1.png)
 
 ## 路径积分
 量子力学不同于波函数的表达
