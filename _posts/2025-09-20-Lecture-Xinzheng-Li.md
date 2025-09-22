@@ -2,11 +2,8 @@
 layout: post
 title: "Lecture from Xinzheng Li 0920"
 author: "Haowei"
+excerpt: "主要讨论相变的定义和判断"
 ---
-
-主要讨论相变的定义和判断
-<!--more-->
-
 ![img_2.png](/images/img0920/Lecture.jpg)
 
 ## 基于李-杨相变理论与路径积分方法理解多体与量子多体问题
