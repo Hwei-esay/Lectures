@@ -3,7 +3,7 @@ layout: post
 title: "Lecture of pwave superconductor 1102"
 author: "Haowei"
 ---
-![img_2.png](/images/img1102/Lecture.png)
+![img_2.png](./images/img1102/Lecture.png)
 
 ## questions
 - pwave superconductor's advantage between other superconductors?
